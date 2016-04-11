@@ -1,0 +1,14 @@
+Accuracies of 10 fold cases:
+
+case:1    90 % 
+case:2    92 % 
+case:3    84 % 
+case:4    92 % 
+case:5    88 % 
+case:6    82 % 
+case:7    90 % 
+case:8    94 % 
+case:9    85 % 
+case:10   84 % 
+
+Average Accuracy for 10 cases:  89 %
